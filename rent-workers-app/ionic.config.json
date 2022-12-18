@@ -1,0 +1,7 @@
+{
+  "name": "rent-workers-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
